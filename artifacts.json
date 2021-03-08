@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/zhg061/artifact-directory-template",
+    "project-repository": "https://github.com/denncc/opioids-od-genome-analysis",
+    "dockerhub-repository": "dencc/opioids-od:dw",
+    "project-website-url": "https://genetics.denncc.com/blog/2021/02/differential-gene-expression-analysis-of-human-opioid-abusers/",
+    "project-website-code": "https://github.com/denncc/sanity-gatsby-blog"
 }
